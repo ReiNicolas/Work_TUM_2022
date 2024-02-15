@@ -1,0 +1,273 @@
+{
+  "wells": {
+    "A1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 8.8,
+      "shape": "circular",
+      "depth": 3.87,
+      "x": 15.5,
+      "y": 71.3,
+      "z": 56.13
+    },
+    "B1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 8.8,
+      "shape": "circular",
+      "depth": 3.87,
+      "x": 15.5,
+      "y": 52.1,
+      "z": 56.13
+    },
+    "C1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 8.8,
+      "shape": "circular",
+      "depth": 3.87,
+      "x": 15.5,
+      "y": 32.9,
+      "z": 56.13
+    },
+    "D1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 8.8,
+      "shape": "circular",
+      "depth": 3.87,
+      "x": 15.5,
+      "y": 13.7,
+      "z": 56.13
+    },
+    "A2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 102.47,
+      "z": 19.3
+    },
+    "B2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 93.56,
+      "z": 19.3
+    },
+    "C2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 84.65,
+      "z": 19.3
+    },
+    "D2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 75.74,
+      "z": 19.3
+    },
+    "E2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 66.83,
+      "z": 19.3
+    },
+    "F2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 57.92,
+      "z": 19.3
+    },
+    "G2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 49.01,
+      "z": 19.3
+    },
+    "H2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 40.1,
+      "z": 19.3
+    },
+    "I2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 31.19,
+      "z": 19.3
+    },
+    "J2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 22.28,
+      "z": 19.3
+    },
+    "K2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 13.37,
+      "z": 19.3
+    },
+    "L2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 69,
+      "y": 4.46,
+      "z": 19.3
+    }
+  },
+  "groups": [
+    {
+      "metadata": {
+        "displayName": "Biotech Tuberack",
+        "displayCategory": "tubeRack",
+        "wellBottomShape": "v"
+      },
+      "brand": {
+        "brand": "Falcon",
+        "brandId": [
+          "352095",
+          "352096",
+          "352097",
+          "352099",
+          "352196"
+        ],
+        "links": [
+          "https://ecatalog.corning.com/life-sciences/b2c/US/en/Liquid-Handling/Tubes,-Liquid-Handling/Centrifuge-Tubes/Falcon%C2%AE-Conical-Centrifuge-Tubes/p/falconConicalTubes"
+        ]
+      },
+      "wells": [
+        "A1",
+        "B1",
+        "C1",
+        "D1"
+      ]
+    },
+    {
+      "metadata": {
+        "displayName": "Biotech Tuberack",
+        "displayCategory": "tubeRack",
+        "wellBottomShape": "v"
+      },
+      "brand": {
+        "brand": "Falcon",
+        "brandId": [
+          "352070",
+          "352098"
+        ],
+        "links": [
+          "https://ecatalog.corning.com/life-sciences/b2c/US/en/Liquid-Handling/Tubes,-Liquid-Handling/Centrifuge-Tubes/Falcon%C2%AE-Conical-Centrifuge-Tubes/p/falconConicalTubes"
+        ]
+      },
+      "wells": [
+        "A2",
+        "B2",
+        "C2",
+        "D2",
+        "E2",
+        "F2",
+        "G2",
+        "H2",
+        "I2",
+        "J2",
+        "K2",
+        "L2"
+      ]
+    }
+  ],
+  "brand": {
+    "brand": "Opentrons",
+    "brandId": [],
+    "links": [
+      "https://shop.opentrons.com/collections/opentrons-tips/products/tube-rack-set-1"
+    ]
+  },
+  "metadata": {
+    "displayName": "Biotech Tube Rack",
+    "displayCategory": "tubeRack",
+    "displayVolumeUnits": "mL",
+    "tags": []
+  },
+  "dimensions": {
+    "xDimension": 102,
+    "yDimension": 174.7,
+    "zDimension": 60
+  },
+  "parameters": {
+    "format": "irregular",
+    "isTiprack": false,
+    "isMagneticModuleCompatible": false,
+    "loadName": "biotech_tuberack"
+  },
+  "ordering": [
+    [
+      "A1",
+      "B1",
+      "C1",
+      "D1"
+    ],
+    [
+      "A2",
+      "B2",
+      "C2",
+      "D2",
+      "E2",
+      "F2",
+      "G2",
+      "H2",
+      "I2",
+      "J2",
+      "K2",
+      "L2"
+    ]
+  ],
+  "namespace": "custom_beta",
+  "version": 1,
+  "schemaVersion": 2,
+  "cornerOffsetFromSlot": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}

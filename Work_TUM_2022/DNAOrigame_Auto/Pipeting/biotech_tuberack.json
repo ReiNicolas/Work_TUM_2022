@@ -1,0 +1,317 @@
+{
+  "wells": {
+    "A1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.83,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.78,
+      "y": 160.45,
+      "z": 21.3
+    },
+    "B1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.5,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.55,
+      "y": 141.3,
+      "z": 21.3
+    },
+    "C1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.89,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.9,
+      "y": 122.76,
+      "z": 21.3
+    },
+    "D1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.85,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.9,
+      "y": 103.52,
+      "z": 21.3
+    },
+    "E1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.83,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.88,
+      "y": 70.95,
+      "z": 21.3
+    },
+    "F1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.8,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.7,
+      "y": 51.7,
+      "z": 21.3
+    },
+    "G1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.86,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.64,
+      "y": 32.39,
+      "z": 21.3
+    },
+    "H1": {
+      "totalLiquidVolume": 1500,
+      "diameter": 10.74,
+      "shape": "circular",
+      "depth": 38.7,
+      "x": 40.78,
+      "y": 13.1,
+      "z": 21.3
+    },
+    "A2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 169.55,
+      "z": 19.3
+    },
+    "B2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 160.64,
+      "z": 19.3
+    },
+    "C2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 151.73,
+      "z": 19.3
+    },
+    "D2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 142.82,
+      "z": 19.3
+    },
+    "E2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 133.91,
+      "z": 19.3
+    },
+    "F2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 125.0,
+      "z": 19.3
+    },
+    "G2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 116.09,
+      "z": 19.3
+    },
+    "H2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 107.18,
+      "z": 19.3
+    },
+    "I2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 98.27,
+      "z": 19.3
+    },
+    "J2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 89.36,
+      "z": 19.3
+    },
+    "K2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 80.45,
+      "z": 19.3
+    },
+    "L2": {
+      "totalLiquidVolume": 2000,
+      "xDimension": 8,
+      "yDimension": 8.91,
+      "shape": "rectangular",
+      "depth": 40.7,
+      "x": 94,
+      "y": 71.54,
+      "z": 19.3
+    }
+  },
+  "groups": [
+    {
+      "metadata": {
+        "displayName": "Biotech Tuberack",
+        "displayCategory": "tubeRack",
+        "wellBottomShape": "v"
+      },
+      "brand": {
+        "brand": "Falcon",
+        "brandId": [
+          "352095",
+          "352096",
+          "352097",
+          "352099",
+          "352196"
+        ],
+        "links": [
+          "https://ecatalog.corning.com/life-sciences/b2c/US/en/Liquid-Handling/Tubes,-Liquid-Handling/Centrifuge-Tubes/Falcon%C2%AE-Conical-Centrifuge-Tubes/p/falconConicalTubes"
+        ]
+      },
+      "wells": [
+        "A1",
+        "B1",
+        "C1",
+        "D1",
+        "E1",
+        "F1",
+        "G1",
+        "H1"
+      ]
+    },
+    {
+      "metadata": {
+        "displayName": "Biotech Tuberack",
+        "displayCategory": "tubeRack",
+        "wellBottomShape": "v"
+      },
+      "brand": {
+        "brand": "Falcon",
+        "brandId": [
+          "352070",
+          "352098"
+        ],
+        "links": [
+          "https://ecatalog.corning.com/life-sciences/b2c/US/en/Liquid-Handling/Tubes,-Liquid-Handling/Centrifuge-Tubes/Falcon%C2%AE-Conical-Centrifuge-Tubes/p/falconConicalTubes"
+        ]
+      },
+      "wells": [
+        "A2",
+        "B2",
+        "C2",
+        "D2",
+        "E2",
+        "F2",
+        "G2",
+        "H2",
+        "I2",
+        "J2",
+        "K2",
+        "L2"
+      ]
+    }
+  ],
+  "brand": {
+    "brand": "Opentrons",
+    "brandId": [],
+    "links": [
+      "https://shop.opentrons.com/collections/opentrons-tips/products/tube-rack-set-1"
+    ]
+  },
+  "metadata": {
+    "displayName": "Biotech Tube Rack",
+    "displayCategory": "tubeRack",
+    "displayVolumeUnits": "mL",
+    "tags": []
+  },
+  "dimensions": {
+    "xDimension": 102,
+    "yDimension": 174.7,
+    "zDimension": 60
+  },
+  "parameters": {
+    "format": "irregular",
+    "isTiprack": false,
+    "isMagneticModuleCompatible": false,
+    "loadName": "biotech_tuberack"
+  },
+  "ordering": [
+    [
+      "A1",
+      "B1",
+      "C1",
+      "D1",
+      "E1",
+      "F1",
+      "G1",
+      "H1"
+    ],
+    [
+      "A2",
+      "B2",
+      "C2",
+      "D2",
+      "E2",
+      "F2",
+      "G2",
+      "H2",
+      "I2",
+      "J2",
+      "K2",
+      "L2"
+    ]
+  ],
+  "namespace": "custom_beta",
+  "version": 1,
+  "schemaVersion": 2,
+  "cornerOffsetFromSlot": {
+    "x": 0,
+    "y": 0,
+    "z": 0
+  }
+}
